@@ -11,3 +11,8 @@ img {
   border-radius:50%;
   cursor: pointer; /* so looks clickable! */
 }
+
+.container {
+  text-align: center;
+}
+
